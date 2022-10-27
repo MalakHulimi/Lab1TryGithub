@@ -1,0 +1,2 @@
+# Lab1TryGithub
+..
